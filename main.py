@@ -32,7 +32,7 @@ class Utils:
 
 class Code:
     path_dirs = ("/usr/bin", "/bin", "/snap/bin")
-    variants = ("code-insiders")
+    variants = ("CodeInsiders")
 
     def __init__(self):
         self.installed_path = None
