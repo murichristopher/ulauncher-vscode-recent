@@ -34,7 +34,7 @@ class Utils:
 
 class Code:
 	path_dirs = ("/usr/bin", "/bin", "/snap/bin")
-	variants = ("Code", "VSCodium")
+	variants = ("Code - Insiders")
 
 	def __init__(self):
 		self.installed_path = None
